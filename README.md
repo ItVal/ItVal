@@ -5,7 +5,7 @@
 - 🌱 I’m currently experimenting the web ecosystem
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint 
-- 📫 How to reach me: ckarungu921@gmail.com
+- 📫 How to reach me: irnasvalentin@gmail.com
 
 - ⚡ "*build your futur in technology*"
 
