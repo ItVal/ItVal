@@ -1,4 +1,4 @@
-### Hi there 👋. Cedric KARUNGU
+### Hi there 👋. Valentin Nasibu
 
 
 - 🔭 I’m currently learning MERN stack
@@ -23,18 +23,18 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td><a href="https://github.com/Cedric921/food-delivrery"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ItVal/Quiz-App-"><b>Quiz App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ItVal/Quiz-App-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ItVal/Quiz-App-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ItVal/Quiz-App-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ItVal/Quiz-App-?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Cedric921/food-delivrery"><b>gda_admin_dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ItVal/ProjetRefep"><b>ProjetRefep</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ItVal/blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ItVal/ProjetRefep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ItVal/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ItVal/ProjetRefep?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -47,12 +47,12 @@
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=ItVal&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric921&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItVal&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -61,13 +61,13 @@
     width="50%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Cedric921&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=ItVal&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="47%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ItVal&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
@@ -100,18 +100,7 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>
+
   </tr>
 
   <tr>
