@@ -102,34 +102,21 @@
     </td>
     
     <td align="center" width="96">
-      <a href="#js">
-         <img
-    width="50%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=ItVal&theme=radical&no-frame=true&column=3&row=2"
-  />
-      </a>
-      <br>Vercelt
-    </td>
-          <td align="center" width="96">
       <a href="#laravel">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>MySQL
     </td>
-    
-
-  </tr>
-
-  
-   <tr>
-      <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
+  </tr>
+
+  
+   <tr>
      <td align="center" width="96">
       <a href="#digitalocean">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
@@ -154,19 +141,15 @@
       </a>
       <br>Postman
     </td>
-     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <br>Git
-    </td>
-  </tr>
-  
-  <tr>
       <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
         </a> 
       <br>bootstrap
     </td>
+  </tr>
+  <tr>
+     
      <td align="center" width="96">
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       <br>Express Js
@@ -188,14 +171,14 @@
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
       <br>Mozilla
     </td>
+     <td align="center" width="96">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <br>Mongo
+    </td>
   </tr>
   
   
   <tr>
-      <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>Mongo
-    </td>
       <td align="center"  width="96">
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node js
